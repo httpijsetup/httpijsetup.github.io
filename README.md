@@ -1,6 +1,6 @@
 # IJ.Start.Canon Setup  
 
- [![canon.com/ijsetup](Get-Started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
+ [![canon.com/ijsetup](quick-start.jpg)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
  
  
 [Ij start canon](https://httpijsetup.github.io/) driver is the connection between printer and device, which communicates with the printer to command the printer. Every printer has a model number or serial number.
